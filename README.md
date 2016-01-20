@@ -1,7 +1,7 @@
-Persona theme for NodeBB
-====================
+=======
+# nodebb-theme-leclub
 
-Persona is the new default theme for NodeBB as of v0.7.1
+Child-theme for Persona template.
 
 ## Addons
 
@@ -13,3 +13,5 @@ Persona is the new default theme for NodeBB as of v0.7.1
 
 <br />
 ![](https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/570/287/570287-5875c63ce086d361b76d94e5bc7cc88a5fd34b8b.png?1439315419)
+
+
