@@ -3,6 +3,13 @@
 
 Child-theme for Persona template.
 
+## Change
+
+- additional sidebar (not yet)
+- svg logo support (not yet)
+- clean menu (not yet)
+- flarum clean sidebar (not yet)
+
 ## Addons
 
 [Recent Cards](https://github.com/psychobunny/nodebb-plugin-recent-cards)
