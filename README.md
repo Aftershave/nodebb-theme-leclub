@@ -9,6 +9,7 @@ Child-theme for Persona template.
 - svg logo support (not yet)
 - clean menu (not yet)
 - flarum clean sidebar (not yet)
+- etc.
 
 ## Addons
 
